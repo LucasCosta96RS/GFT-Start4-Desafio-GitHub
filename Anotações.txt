@@ -1,0 +1,17 @@
+comandos Git
+
+cd - entra na pasta
+
+git status - mostra o status do repositório
+
+git add -a - Adiciona as alterações feitas no repositório no git local
+
+git commit -m "comentário do commit" - Cria um commit local
+
+git push origin main - Envia os commits locais para a nuvem(servidor remoto)
+
+git clone <chave do repositório> - copia o repositório do servidor remoto para o servidor local na pasta atual do gitbash
+
+git fetch - pega todas as atualizações do repositório remoto
+
+git init <nome do repositório> - inicia um repositório na pasta atual do gitbash
